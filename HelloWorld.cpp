@@ -1,4 +1,5 @@
 void HelloWorld::SayHello()
 {
-	print("Hello World");
+	print("Hello Sihyuyk");
+	print("Hello Janghan");
 }
