@@ -1,4 +1,4 @@
 void HelloWorld::SayHello()
 {
-	print("Hello");
+	print("Hello World");
 }
